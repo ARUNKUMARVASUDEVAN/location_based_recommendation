@@ -9,3 +9,4 @@ haversine
 pymongo
 streamlit
 flask
+plotly_express
