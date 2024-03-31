@@ -10,3 +10,4 @@ pymongo
 streamlit
 flask
 plotly_express
+scikit-learn
